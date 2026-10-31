@@ -1,0 +1,19 @@
+Forslag til ny nettside – CrossFit Verftet Kystby
+==================================================
+
+Slik ser du siden:
+
+1. Pakk ut zip-filen først.
+   (Ikke dobbeltklikk på filene inne i zip-filen – da mangler bilder og design.)
+   - Mac: dobbeltklikk på zip-filen.
+   - Windows: høyreklikk på zip-filen > «Pakk ut alle».
+
+2. Åpne mappen «verftet-kystby» og dobbeltklikk på index.html.
+   Siden åpnes i nettleseren. Bruk menyen øverst for å se de andre sidene.
+
+Tips:
+- Bruk en PC eller Mac. På mobil er det vanskelig å åpne nettsider fra en fil.
+  Vil du se mobilversjonen, gjør nettleservinduet smalt.
+- Du må være på nett. Skrifttypene og timeplanen hentes fra internett.
+- Dette er et forslag, ikke den offisielle nettsiden. Bilder, tekster og priser
+  er hentet fra dagens nettside og Wondr.
